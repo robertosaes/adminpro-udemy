@@ -6,7 +6,6 @@ import { ProgressComponent } from './progress/progress.component';
 import { Graficas1Component } from './graficas1/graficas1.component';
 
 
-
 const pagesRoutes: Routes = [
     {
         path: '',
